@@ -1,4 +1,4 @@
-name: Riot
+name: Element
 description: 'A glossy Matrix collaboration client for the web'
 website: 'https://element.io/'
 repository: 'https://github.com/vector-im/element-desktop'
@@ -23,4 +23,4 @@ keywords:
 license: Apache-2.0
 category: 'Social Networking'
 screenshots:
-  - imageUrl: 'https://element.io/images/homepage-all-platforms-1_1.png'
+  - imageUrl: 'https://element.io/images/logo-mark-primary.svg'
